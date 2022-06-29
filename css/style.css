@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rollingHeader{
+    font-family: 'Black Han Sans', sans-serif;
+    color: black;
+}
+header{
+    background-color: white;
+    color: black;
+}
+
+.rollingFooter{
+    font-family: 'Black Han Sans', sans-serif;
+    color: white;
+}
+.liStyle{
+    list-style: none;
+}
+.margin{
+    margin: 0px;
+    padding: 0px;
+}
+.bannerBanco{
+    object-fit: cover;
+    height: 500px;
+}
+
+.color{
+    background-color: #007BFF;
+}
+.tarjetas{
+    border-style:solid;
+    border-color: gray;
+    border-radius: ;
+}
